@@ -1,0 +1,6 @@
+Отсутствие foreign key в таблице film_text на поле film
+Разные тип данных таблицы в столбцах id
+Лишняя связь original_language_id между film и language
+Тип данных set столбца special_features и enum столбца rating
+Отсутствие not null в staff столбец password
+
